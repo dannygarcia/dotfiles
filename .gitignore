@@ -1,0 +1,30 @@
+# Mac OS X
+.DS_Store
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Compass / SASS
+.sass-cache
+
+# Local
+_assets
+
+# Source control
+.svn/
+
+# Django/Python
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Textmate
+*.tmproj
+*.tmproject
+tmtags
