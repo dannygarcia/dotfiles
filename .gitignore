@@ -28,3 +28,6 @@ local_settings.py
 *.tmproj
 *.tmproject
 tmtags
+
+# Other
+.netrwhist
